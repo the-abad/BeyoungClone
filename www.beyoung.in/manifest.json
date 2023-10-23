@@ -1,0 +1,20 @@
+{
+  "short_name": "Beyoung",
+  "name": "Beyoung",
+  "icons": [
+    {
+      "src": "/beyoung.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/beyoung.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#FFFFFF",
+  "theme_color": "#ffffff",
+  "display": "standalone"
+}
